@@ -75,7 +75,7 @@ Materials not supported, these are all not designed to take repeated heating and
 
 ### What lube should I use?
 
-The currently recommended lube for the linear rails is Mobilux EP1 or EP2, or the NLGI equivalents. Either Super Lube or EP1/2 is recommended for the extruder gears.
+The currently recommended lube for the linear rails is Mobilux EP1 or EP2, or the NLGI equivalents. PTFE-based lubes (like Super Lube) work, but do not last as long as EP1 or EP2. Either Super Lube or EP1/2 is recommended for the extruder gears.
 
 ### What kind of bolts are what?
 
